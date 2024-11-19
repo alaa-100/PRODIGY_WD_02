@@ -1,0 +1,18 @@
+main {
+    display: flex;
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top:120px
+}
+button {
+    background-color: transparent;
+    padding: 8px;
+    font-size: 25px;
+}
+.hidden {
+    display: none;
+}
